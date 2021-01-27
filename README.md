@@ -1,4 +1,2 @@
 # hello-world
-First
-Hi
-I Play video games
+introduction to github. updated after 4 years
